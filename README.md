@@ -102,7 +102,7 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/dheib5520/dheib5520/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "opertingsys.gif" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
@@ -121,7 +121,7 @@
 
 ## <picture> <img src = "https://github.com/dheib5520/dheib5520/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
-<details><summary><h3> ?? Streak Stats</h3></summary>
+<details><summary><h3>🔥 Streak Stats</h3></summary>
 
 ----	
 
@@ -129,7 +129,7 @@
 
 </details>
   
-<details><summary><h3>?? GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
 	
@@ -143,7 +143,7 @@
   </p>
 </details> 
 
-<details><summary><h3>? Recent GitHub Activity</h3></summary>
+<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
 	
