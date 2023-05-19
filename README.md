@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=dheib5520&label=Profile%20views&color=0047AB&style=plastic?" alt="dheib5520" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=dheib5520&label=Profile%20views&color=0047AB&style=plastic?" alt="dheib5520" height=35px, width=160px/> 
 </p>
 
 	
