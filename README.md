@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "https://github.com/dheib5520/dheib5520/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="sarah-working-on-computer.gif" width = 600px></picture>
+<picture> <img align="right" src="sarah-working-on-computer.gif" width = 400px></picture>
 
 <br><br>
 
