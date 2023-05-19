@@ -119,7 +119,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/dheib5520/dheib5520/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "githubstats.gif" width = 50px>  </picture> Github Stats
 
 <details><summary><h3>🔥 Streak Stats</h3></summary>
 
