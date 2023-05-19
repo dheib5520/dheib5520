@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "about_me.gif" width = 50px></picture> About me
 
-<picture> <img align="right" src="sarah-working-on-computer.gif" width = 400px></picture>
+<picture> <img align="right" src="sarah-working-on-computer.gif" width = 380px></picture>
 
 <br><br>
 
