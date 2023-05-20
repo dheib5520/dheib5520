@@ -135,7 +135,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="dheib5520's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dheib5520&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="dheib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dheib5520&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dheib5520&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="dheib5520" height="230px"/>
 <br/>
 
@@ -147,18 +147,15 @@
 
 ----
 	
-[![dheib5520's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dheib5520&theme=github	)](https://github.com/dheib5520/github-readme-activity-graph)
+[![dheib's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=dheib5520&theme=github	)](https://github.com/dheib5520/github-readme-activity-graph)
 
  
 </details>
 
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheib5520&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="dheib5520" /></a> </p>
 
-[![@dheib5520's Holopin board](https://holopin.io/api/user/board?user=dheib5520)](https://holopin.io/@dheib5520)
+[![@dheib's Holopin board](https://holopin.io/api/user/board?user=dheib5520)](https://holopin.io/@dheib5520)
 	
 </details>
 	
