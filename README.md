@@ -155,7 +155,7 @@
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 
-[![@dheib's Holopin board](https://holopin.io/api/user/board?user=dheib5520)](https://holopin.io/@dheib5520)
+[![@dheib's ]
 	
 </details>
 	
